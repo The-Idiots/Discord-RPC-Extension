@@ -1,3 +1,15 @@
+this extension is hella buggy i fixed it but they seemingly want to update it now maybe ill release it in the future
+
+
+
+
+
+
+
+
+
+
+
 # Discord-RPC-Extension
 Discord rich presence extension with open API.
 
